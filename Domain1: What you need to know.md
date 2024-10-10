@@ -83,6 +83,8 @@ Cloud security is based on a **shared responsibility model**:
   - Data privacy
   - Jurisdiction issues
   - Auditability
+ 
+    
 ![image](https://github.com/user-attachments/assets/abe0bbdd-99b6-4004-aedf-edeebc74733d)
 ![image](https://github.com/user-attachments/assets/64fc864f-f59c-4264-8e27-9932c7f0a53d)
 

@@ -6,6 +6,8 @@
 - Governance remains the organization's responsibility, even when using external cloud providers.
 - Contracts are the main tool for extending governance to cloud providers.
 - Supplier assessments and third-party audits validate the cloud provider’s adherence to governance.
+- 
+![image](https://github.com/user-attachments/assets/0ceff147-ba4a-48c4-9200-e81b78948d1d)
 
 ---
 
@@ -28,6 +30,9 @@
 - **Contracts:** The primary governance tool, defining roles, responsibilities, and service level agreements (SLAs) between customer and provider.
 - **Supplier Assessments:** Evaluating a provider’s financial stability, legal compliance, and security practices.
 - **Compliance Reporting:** External audits and certifications that verify cloud providers’ adherence to security controls.
+
+
+![image](https://github.com/user-attachments/assets/1918baf5-fbbf-4460-90bb-755a5dc26af5)
 
 ## Key Exam Points:
 - Understand the role of contracts in cloud governance and how they define responsibility.

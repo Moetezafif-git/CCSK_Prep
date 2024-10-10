@@ -28,10 +28,13 @@
 
 Cloud computing abstracts resources and allows for their dynamic allocation, creating a multi-tenant environment where different users access shared resources without interference.
 
+
 ### Key Exam Points:
 - Be ready to explain the difference between **virtualization** and **cloud computing**:
   - In virtualization, resources are separated.
   - Cloud adds orchestration to dynamically allocate resources on-demand.
+    
+![image](https://github.com/user-attachments/assets/ac78744a-3764-447f-a012-b9ea0e301055)
 
 ---
 
@@ -40,6 +43,7 @@ Cloud computing abstracts resources and allows for their dynamic allocation, cre
 - **IaaS (Infrastructure as a Service)**: You control the infrastructure (e.g., virtual machines, storage) but not the underlying hardware.
 - **PaaS (Platform as a Service)**: Provides a platform to develop and deploy applications without managing the underlying hardware or infrastructure.
 - **SaaS (Software as a Service)**: The provider handles everything, including application maintenance. The user just consumes the service.
+![image](https://github.com/user-attachments/assets/e35ad294-d452-4aa7-ae2e-a136b2afe8a7)
 
 ### Key Exam Points:
 - Understand the differences in control and responsibility in each model:
@@ -57,6 +61,7 @@ Cloud computing abstracts resources and allows for their dynamic allocation, cre
 - **Private Cloud**: Infrastructure is operated solely for one organization.
 - **Hybrid Cloud**: Combines private and public clouds, allowing for portability of data and applications.
 - **Community Cloud**: Infrastructure is shared by several organizations with common concerns (e.g., security requirements).
+![image](https://github.com/user-attachments/assets/e135c32e-c186-49e2-9703-367868ff13de)
 
 ### Key Exam Points:
 - Be familiar with each model’s benefits and risks:
@@ -69,6 +74,7 @@ Cloud computing abstracts resources and allows for their dynamic allocation, cre
 Cloud security is based on a **shared responsibility model**:
 - **Provider**: Manages the security of the cloud (e.g., physical infrastructure).
 - **User**: Responsible for security **in the cloud** (e.g., securing data, managing user access).
+![image](https://github.com/user-attachments/assets/6236865e-a53e-4a11-86fc-604934c5668a)
 
 ### Key Exam Points:
 - In SaaS, the provider handles most security.
@@ -77,6 +83,8 @@ Cloud security is based on a **shared responsibility model**:
   - Data privacy
   - Jurisdiction issues
   - Auditability
+![image](https://github.com/user-attachments/assets/abe0bbdd-99b6-4004-aedf-edeebc74733d)
+![image](https://github.com/user-attachments/assets/64fc864f-f59c-4264-8e27-9932c7f0a53d)
 
 ---
 

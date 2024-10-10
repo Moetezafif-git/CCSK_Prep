@@ -63,6 +63,7 @@
 - **SaaS:** Most governance is handled by the provider, leaving customers responsible mainly for access control and data governance.
 - **PaaS:** Customers manage application security and configurations, while the provider handles the infrastructure.
 - **IaaS:** Customers have the most control, managing the security of the entire stack except the basic infrastructure.
+![image](https://github.com/user-attachments/assets/499c970e-985e-4a27-aa15-30849404ce58)
 
 ## Key Exam Points:
 - Know the level of responsibility across SaaS, PaaS, and IaaS.

@@ -51,7 +51,8 @@ Cloud computing reference models, as described in NIST and ISO/IEC standards, pr
 
 - **Shared Responsibility Model**: In this model, responsibilities vary depending on the service model (IaaS, PaaS, SaaS), with the provider managing the infrastructure and the customer managing the applications and data.
 
-   ![Cloud Reference and Architecture Models](https://github.com/user-attachments/assets/123569db-7e1d-4933-aade-458e5140d4f6)
+![image](https://github.com/user-attachments/assets/9b2be3c7-f038-4736-99ff-00fd89064fae)
+
 
 ---
 
@@ -59,3 +60,5 @@ Cloud computing reference models, as described in NIST and ISO/IEC standards, pr
 Here are the key visual representations:
 - Cloud Definitional Model
    ![Cloud Definitional Model](https://github.com/user-attachments/assets/56fe7a33-61cb-4d52-a4b7-5c336880de1a)
+     ![Cloud Reference and Architecture Models](https://github.com/user-attachments/assets/123569db-7e1d-4933-aade-458e5140d4f6)
+

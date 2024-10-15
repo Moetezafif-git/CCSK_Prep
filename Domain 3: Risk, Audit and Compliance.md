@@ -18,8 +18,10 @@
 ### Practice:
 - Identify real-world examples of cloud risks (e.g., data exfiltration from open cloud storage).
 - Perform a basic threat model for a cloud environment.
+![image](https://github.com/user-attachments/assets/088e4c13-b855-4be8-a4f1-307a22c194b2)
 
 ---
+
 
 ## 2. Risk Assessment and Treatment
 
@@ -40,6 +42,7 @@
 
 ### Practice:
 - Define steps to treat a specific cloud risk (e.g., insecure API endpoints).
+![image](https://github.com/user-attachments/assets/d85cc2b2-a46a-45ea-be89-ffb9595dd0b2)
 
 ---
 
@@ -66,6 +69,7 @@
 
 ### Practice:
 - Create an audit plan including compliance documentation requirements (e.g., data retention logs).
+![image](https://github.com/user-attachments/assets/e79946f5-ea7a-48fc-8cc7-7716c5eee341)
 
 ---
 

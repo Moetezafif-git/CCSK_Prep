@@ -15,6 +15,8 @@
   - **Google Cloud**: Organizations, Folders, Projects
 - **Segmentation**: Structure cloud environments to reduce the impact of adverse events by isolating deployments.
 - **Standardization**: Use CSP landing zones and account factories for standardized deployment and management.
+![image](https://github.com/user-attachments/assets/63dc4dbc-6e00-45e5-97be-f2756f2021b7)
+![image](https://github.com/user-attachments/assets/7ab20d30-5cf6-412a-8829-2469ca5716ae)
 
 ### Practice:
 - Create an organization hierarchy for an enterprise with multiple applications using AWS or Azure.

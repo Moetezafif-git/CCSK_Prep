@@ -493,4 +493,34 @@ For each question, you've seen explanations to strengthen your understanding and
    - **Answer:** B. True  
    - **Explanation:** Elastic servers provide scalability, allowing cloud resources to adjust based on demand. Moving workloads to new instances can help manage performance, optimize costs, and maintain a secure environment by avoiding issues like resource exhaustion.
 
+
 ---
+
+### 4️⃣1️⃣ **To understand their compliance alignments and gaps with a cloud provider, what must cloud customers rely on?**
+   - **Answer:** C. Third-party attestations  
+   - **Explanation:** Third-party attestations, such as SOC reports and certifications (e.g., ISO 27001), provide an independent assessment of a cloud provider’s compliance with specific standards. These attestations are critical for customers who want to verify that a provider meets required security and compliance measures.
+
+---
+
+### 4️⃣2️⃣ **Which of the following is a perceived advantage or disadvantage of managing enterprise risk for cloud deployments?**
+   - **Answer:** B. Greater reliance on contracts, audits, and assessments due to lack of visibility or management.  
+   - **Explanation:** In cloud environments, enterprises often have limited visibility and control over the infrastructure. Consequently, they rely more on contracts, third-party audits, and periodic assessments to ensure compliance and mitigate risks associated with outsourcing data and applications to cloud providers.
+
+---
+
+### 4️⃣3️⃣ **Which data security control is the LEAST likely to be assigned to an IaaS provider?**
+   - **Answer:** A. Application logic  
+   - **Explanation:** In an IaaS (Infrastructure-as-a-Service) model, the provider manages lower-level infrastructure such as servers and storage. However, application logic and development remain the customer’s responsibility, as IaaS doesn’t include the management of applications or data within the infrastructure.
+
+---
+
+### 4️⃣4️⃣ **How does virtualized storage help avoid data loss if a drive fails?**
+   - **Answer:** A. Multiple copies in different locations  
+   - **Explanation:** Virtualized storage solutions often implement redundancy by creating multiple copies of data across different physical locations. This ensures data availability and resilience in case of a drive failure, minimizing the risk of data loss.
+
+---
+
+### 4️⃣5️⃣ **What is the newer application development methodology and philosophy focused on automation of application development and deployment?**
+   - **Answer:** C. DevOps  
+   - **Explanation:** DevOps is an approach that integrates software development (Dev) and IT operations (Ops) to automate and improve the efficiency of application development and deployment. It emphasizes collaboration, continuous integration, and automated testing and deployment processes.
+

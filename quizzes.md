@@ -298,4 +298,59 @@ For each question, you've seen explanations to strengthen your understanding and
    **🔍 Explanation:** While privacy concerns are important, they are not a direct cloud computing characteristic that impacts incident response. The other options (like self-service, resource pooling, etc.) have a more direct impact on how incidents are managed in cloud environments.
 
 ---
+---
 
+### 2️⃣1️⃣ **Which cloud-based service model enables companies to provide client-based access for partners to databases or applications?**
+   - **A.** Platform-as-a-service (PaaS)
+   - **B.** Desktop-as-a-service (DaaS)
+   - **C.** Infrastructure-as-a-service (IaaS)
+   - **D.** Identity-as-a-service (IDaaS)
+   - **E.** Software-as-a-service (SaaS)
+
+   **🟢 Correct Answer:** **A. Platform-as-a-service (PaaS)**  
+   **🔍 Explanation:** PaaS enables companies to provide client-based access to databases or applications while managing the underlying infrastructure, making it an ideal service model for partnering scenarios.
+
+---
+
+### 2️⃣2️⃣ **CCM: The following list of controls belong to which domain of the CCM?**  
+   GRM 06 `" Policy`, GRM 07 `" Policy Enforcement`, GRM 08 `" Policy Impact on Risk Assessments`, GRM 09 `" Policy Reviews`, GRM 10 `" Risk Assessments`, GRM 11 `" Risk Management Framework
+   - **A.** Governance and Retention Management
+   - **B.** Governance and Risk Management
+   - **C.** Governing and Risk Metrics
+
+   **🟢 Correct Answer:** **B. Governance and Risk Management**  
+   **🔍 Explanation:** These controls focus on managing governance policies, enforcement, and risk assessments, making them a part of the Governance and Risk Management domain in the Cloud Controls Matrix (CCM).
+
+---
+
+### 2️⃣3️⃣ **Which attack surfaces, if any, does virtualization technology introduce?**
+   - **A.** The hypervisor
+   - **B.** Virtualization management components apart from the hypervisor
+   - **C.** Configuration and VM sprawl issues
+   - **D.** All of the above
+
+   **🟢 Correct Answer:** **D. All of the above**  
+   **🔍 Explanation:** Virtualization technology introduces multiple attack surfaces, including the hypervisor, management components, and issues like VM sprawl and misconfigurations, all of which can pose security risks.
+
+---
+
+### 2️⃣4️⃣ **APIs and web services require extensive hardening and must assume attacks from authenticated and unauthenticated adversaries.**
+   - **A.** False
+   - **B.** True
+
+   **🟢 Correct Answer:** **B. True**  
+   **🔍 Explanation:** APIs and web services are common targets for both authenticated and unauthenticated attacks. Therefore, they require extensive hardening and security measures to protect sensitive data and ensure proper access control.
+
+---
+
+### 2️⃣5️⃣ **Which of the following is NOT a cloud computing characteristic that impacts incident response?**
+   - **A.** The on-demand self-service nature of cloud computing environments.
+   - **B.** Privacy concerns for co-tenants regarding the collection and analysis of telemetry and artifacts associated with an incident.
+   - **C.** The possibility of data crossing geographic or jurisdictional boundaries.
+   - **D.** Object-based storage in a private cloud.
+   - **E.** The resource pooling practiced by cloud services, in addition to the rapid elasticity offered by cloud infrastructures.
+
+   **🟢 Correct Answer:** **B. Privacy concerns for co-tenants regarding the collection and analysis of telemetry and artifacts associated with an incident.**  
+   **🔍 Explanation:** While privacy concerns are important, they are not a direct cloud computing characteristic that impacts incident response. The other options (like self-service, resource pooling, etc.) have a more direct impact on how incidents are managed in cloud environments.
+
+---

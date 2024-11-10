@@ -404,4 +404,65 @@ For each question, you've seen explanations to strengthen your understanding and
    **🔍 Explanation:** Using the same network address range for both cloud and on-premises infrastructures can create IP address conflicts and network management issues. It is best practice to use different address ranges to avoid overlap and ensure proper routing.
 
 ---
+---
+
+### 3️⃣1️⃣ **Which layer is the most important for securing because it is considered to be the foundation for secure cloud operations?**
+   - **A.** Infrastructure
+   - **B.** Datastructure
+   - **C.** Infostructure
+   - **D.** Applistructure
+   - **E.** Metastructure
+
+   **🟢 Correct Answer:** **A. Infrastructure**  
+   **🔍 Explanation:** The infrastructure layer is fundamental for secure cloud operations, as it provides the physical and logical foundation for all other services and applications within the cloud environment. Securing this layer is essential to protect cloud resources.
+
+---
+
+### 3️⃣2️⃣ **Why is a service type of network typically isolated on different hardware?**
+   - **A.** It requires distinct access controls
+   - **B.** It manages resource pools for cloud consumers
+   - **C.** It has distinct functions from other networks
+   - **D.** It manages the traffic between other networks
+   - **E.** It requires unique security
+
+   **🟢 Correct Answer:** **D. It manages the traffic between other networks**  
+   **🔍 Explanation:** Service networks are often isolated on separate hardware to ensure secure and efficient management of traffic between different networks. This segregation enhances network performance and security.
+
+---
+
+### 3️⃣3️⃣ **Which governance domain deals with evaluating how cloud computing affects compliance with internal security policies and various legal requirements, such as regulatory and legislative?**
+   - **A.** Legal Issues: Contracts and Electronic Discovery
+   - **B.** Infrastructure Security
+   - **C.** Compliance and Audit Management
+   - **D.** Information Governance
+   - **E.** Governance and Enterprise Risk Management
+
+   **🟢 Correct Answer:** **C. Compliance and Audit Management**  
+   **🔍 Explanation:** The Compliance and Audit Management domain ensures that cloud operations align with internal policies and external regulations, addressing legal and regulatory requirements crucial for secure cloud adoption.
+
+---
+
+### 3️⃣4️⃣ **An important consideration when performing a remote vulnerability test of a cloud-based application is to**
+   - **A.** Obtain provider permission for test
+   - **B.** Use techniques to evade cloud provider’s detection systems
+   - **C.** Use application layer testing tools exclusively
+   - **D.** Use network layer testing tools exclusively
+   - **E.** Schedule vulnerability test at night
+
+   **🟢 Correct Answer:** **A. Obtain provider permission for test**  
+   **🔍 Explanation:** It's essential to obtain permission from the cloud provider before conducting vulnerability tests. This ensures compliance with the provider’s policies and avoids potential disruptions or legal issues.
+
+---
+
+### 3️⃣5️⃣ **Cloud services exhibit five essential characteristics that demonstrate their relation to, and differences from, traditional computing approaches. Which one of the five characteristics is described as: a consumer can unilaterally provision computing capabilities such as server time and network storage as needed?**
+   - **A.** Rapid elasticity
+   - **B.** Resource pooling
+   - **C.** Broad network access
+   - **D.** Measured service
+   - **E.** On-demand self-service
+
+   **🟢 Correct Answer:** **E. On-demand self-service**  
+   **🔍 Explanation:** On-demand self-service allows users to independently provision cloud resources as needed without requiring human interaction, a key characteristic that differentiates cloud services from traditional computing models.
+
+---
 

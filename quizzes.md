@@ -1,9 +1,6 @@
 # CCSK Practice Quiz
 
-## Congratulations!
-You've completed the quiz. Check below to see your score.
 
----
 
 ### Sample Questions from Domains 1-12
 

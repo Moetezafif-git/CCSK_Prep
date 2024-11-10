@@ -523,4 +523,67 @@ For each question, you've seen explanations to strengthen your understanding and
 ### 4️⃣5️⃣ **What is the newer application development methodology and philosophy focused on automation of application development and deployment?**
    - **Answer:** C. DevOps  
    - **Explanation:** DevOps is an approach that integrates software development (Dev) and IT operations (Ops) to automate and improve the efficiency of application development and deployment. It emphasizes collaboration, continuous integration, and automated testing and deployment processes.
+Here’s the continuation of the questions in the requested format, starting from question 46:
+
+---
+
+**4️⃣6️⃣** To understand their compliance alignments and gaps with a cloud provider, what must cloud customers rely on?  
+A. Provider documentation  
+B. Provider run audits and reports  
+C. Third-party attestations  
+D. Provider and consumer contracts  
+E. EDiscovery tools  
+
+🟢 **Correct Answer:** C. Third-party attestations  
+🔍 **Explanation:** Cloud customers need to rely on third-party attestations to understand their compliance with standards and regulations. These attestations provide an independent validation of the cloud provider's adherence to relevant compliance requirements.
+
+---
+
+**4️⃣7️⃣** Which of the following is a perceived advantage or disadvantage of managing enterprise risk for cloud deployments?  
+A. More physical control over assets and processes.  
+B. Greater reliance on contracts, audits, and assessments due to lack of visibility or management.  
+C. Decreased requirement for proactive management of relationships and adherence to contracts.  
+D. Increased need, but reduction in costs, for managing risks accepted by the cloud provider.  
+E. None of the above.  
+
+🟢 **Correct Answer:** B. Greater reliance on contracts, audits, and assessments due to lack of visibility or management.  
+🔍 **Explanation:** In a cloud environment, enterprises typically have less visibility into infrastructure and operations, leading to a greater reliance on legal contracts, audits, and third-party assessments to manage risks effectively.
+
+---
+
+**4️⃣8️⃣** Which data security control is the LEAST likely to be assigned to an IaaS provider?  
+A. Application logic  
+B. Access controls  
+C. Encryption solutions  
+D. Physical destruction  
+E. Asset management and tracking  
+
+🟢 **Correct Answer:** A. Application logic  
+🔍 **Explanation:** In an IaaS (Infrastructure as a Service) model, the provider is responsible for managing the physical infrastructure, networking, and other foundational components, but the application logic is typically managed by the customer who uses the service.
+
+---
+
+**4️⃣9️⃣** How does virtualized storage help avoid data loss if a drive fails?  
+A. Multiple copies in different locations  
+B. Drives are backed up, swapped, and archived constantly  
+C. Full backups weekly  
+D. Data loss is unavoidable with drive failures  
+E. Incremental backups daily  
+
+🟢 **Correct Answer:** A. Multiple copies in different locations  
+🔍 **Explanation:** Virtualized storage often uses redundancy techniques such as replication, where multiple copies of data are stored across different locations or devices, ensuring availability and preventing data loss in case of a failure.
+
+---
+
+**5️⃣0️⃣** What is the newer application development methodology and philosophy focused on automation of application development and deployment?  
+A. Agile  
+B. BusOps  
+C. DevOps  
+D. SecDevOps  
+E. Scrum  
+
+🟢 **Correct Answer:** C. DevOps  
+🔍 **Explanation:** DevOps is a development methodology that emphasizes collaboration between software development and IT operations teams, focusing on automation, continuous integration, and faster delivery of applications.
+
+---
 

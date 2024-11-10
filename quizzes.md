@@ -465,4 +465,32 @@ For each question, you've seen explanations to strengthen your understanding and
    **🔍 Explanation:** On-demand self-service allows users to independently provision cloud resources as needed without requiring human interaction, a key characteristic that differentiates cloud services from traditional computing models.
 
 ---
+### 3️⃣6️⃣ **REST APIs are the standard for web-based services because they run over HTTPS and work well across diverse environments.**
+   - **Answer:** B. True  
+   - **Explanation:** REST (Representational State Transfer) APIs are commonly used in cloud environments because they provide a stateless, scalable, and flexible way to interact with web-based services. HTTPS ensures secure data transfer, making REST APIs suitable for use across various environments.
 
+---
+
+### 3️⃣7️⃣ **Which of the following statements are NOT requirements of governance and enterprise risk management in a cloud environment?**
+   - **Answer:** C. Negotiate long-term contracts with companies who use well-vetted software application to avoid the transient nature of the cloud environment.  
+   - **Explanation:** While long-term contracts and vetted applications are beneficial, they are not core governance or risk management requirements in cloud environments. Governance focuses on risk management, operational resilience, and transparency.
+
+---
+
+### 3️⃣8️⃣ **What is defined as the process by which an opposing party may obtain private documents for use in litigation?**
+   - **Answer:** A. Discovery  
+   - **Explanation:** Discovery is the process in legal proceedings where one party may request relevant documents from another party. In cloud computing, this process must comply with data residency, privacy, and other regulations.
+
+---
+
+### 3️⃣9️⃣ **What item below allows disparate directory services and independent security domains to be interconnected?**
+   - **Answer:** E. Federation  
+   - **Explanation:** Federation enables interoperability across different directory services and security domains, allowing entities in distinct domains to authenticate and access resources across platforms securely.
+
+---
+
+### 4️⃣0️⃣ **Use elastic servers when possible and move workloads to new instances.**
+   - **Answer:** B. True  
+   - **Explanation:** Elastic servers provide scalability, allowing cloud resources to adjust based on demand. Moving workloads to new instances can help manage performance, optimize costs, and maintain a secure environment by avoiding issues like resource exhaustion.
+
+---

@@ -354,3 +354,54 @@ For each question, you've seen explanations to strengthen your understanding and
    **🔍 Explanation:** While privacy concerns are important, they are not a direct cloud computing characteristic that impacts incident response. The other options (like self-service, resource pooling, etc.) have a more direct impact on how incidents are managed in cloud environments.
 
 ---
+---
+
+### 2️⃣6️⃣ **Big data includes high volume, high variety, and high velocity.**
+   - **A.** False
+   - **B.** True
+
+   **🟢 Correct Answer:** **B. True**  
+   **🔍 Explanation:** Big data is characterized by three key attributes: volume (large amounts of data), variety (diverse types of data), and velocity (high speed of data processing and generation). These factors collectively define the concept of big data.
+
+---
+
+### 2️⃣7️⃣ **CCM: A hypothetical company called: `Health4Sure` is located in the United States and provides cloud-based services for tracking patient health. The company is compliant with HIPAA/HITECH Act among other industry standards. Health4Sure decides to assess the overall security of their cloud service against the CCM toolkit so that they will be able to present this document to potential clients. Which of the following approaches would be most suitable to assess the overall security posture of Health4Sure's cloud service?**
+   - **A.** The CCM columns are mapped to HIPAA/HITECH Act and therefore Health4Sure could verify the CCM controls already covered as a result of their compliance with HIPAA/HITECH Act. They could then assess the remaining controls. This approach will save time.
+   - **B.** The CCM domain controls are mapped to HIPAA/HITECH Act and therefore Health4Sure could verify the CCM controls already covered as a result of their compliance with HIPAA/HITECH Act. They could then assess the remaining controls thoroughly. This approach saves time while being able to assess the company’s overall security posture in an efficient manner.
+   - **C.** The CCM domains are not mapped to HIPAA/HITECH Act. Therefore Health4Sure should assess the security posture of their cloud service against each and every control in the CCM. This approach will allow a thorough assessment of the security posture.
+
+   **🟢 Correct Answer:** **C. The CCM domains are not mapped to HIPAA/HITECH Act. Therefore Health4Sure should assess the security posture of their cloud service against each and every control in the CCM. This approach will allow a thorough assessment of the security posture.**  
+   **🔍 Explanation:** While the CCM may share similarities with HIPAA/HITECH, it’s not directly mapped to them, so a comprehensive assessment against all CCM controls will ensure a thorough evaluation of the company’s security posture.
+
+---
+
+### 2️⃣8️⃣ **A defining set of rules composed of claims and attributes of the entities in a transaction, which is used to determine their level of access to cloud-based resources is called what?**
+   - **A.** An entitlement matrix
+   - **B.** A support table
+   - **C.** An entry log
+   - **D.** A validation process
+   - **E.** An access log
+
+   **🟢 Correct Answer:** **D. A validation process**  
+   **🔍 Explanation:** A validation process is used to assess the claims and attributes of entities involved in a transaction to determine their access levels. This process plays a critical role in cloud security and identity management.
+
+---
+
+### 2️⃣9️⃣ **Cloud applications can use virtual networks and other structures, for hyper-segregated environments.**
+   - **A.** False
+   - **B.** True
+
+   **🟢 Correct Answer:** **B. True**  
+   **🔍 Explanation:** Cloud applications can leverage virtual networks, subnets, and segmentation techniques to create highly isolated environments for enhanced security, known as hyper-segregation.
+
+---
+
+### 3️⃣0️⃣ **Your cloud and on-premises infrastructures should always use the same network address ranges.**
+   - **A.** False
+   - **B.** True
+
+   **🟢 Correct Answer:** **A. False**  
+   **🔍 Explanation:** Using the same network address range for both cloud and on-premises infrastructures can create IP address conflicts and network management issues. It is best practice to use different address ranges to avoid overlap and ensure proper routing.
+
+---
+

@@ -550,3 +550,108 @@ E. Scrum
 
 ---
 
+5️⃣1️⃣ All cloud services utilize virtualization technologies.
+
+A. False  
+B. True  
+
+🟢 **Correct Answer**: A. False  
+🔍 **Explanation**: Not all cloud services rely on virtualization. Some use alternative technologies to deliver their offerings, such as containerization or serverless computing.
+
+---
+
+5️⃣2️⃣ If there are gaps in network logging data, what can you do?
+
+A. Nothing. There are simply limitations around the data that can be logged in the cloud.  
+B. Ask the cloud provider to open more ports.  
+C. You can instrument the technology stack with your own logging.  
+D. Ask the cloud provider to close more ports.  
+E. Nothing. The cloud provider must make the information available.  
+
+🟢 **Correct Answer**: C. You can instrument the technology stack with your own logging.  
+🔍 **Explanation**: To overcome gaps in logging, you can augment the existing logs by deploying your own logging tools and instrumentation within the stack.
+
+---
+
+5️⃣3️⃣ In the CCM tool, a _____________________ is a measure that modifies risk and includes any process, policy, device, practice, or any other actions which modify risk.
+
+A. Risk Impact  
+B. Domain  
+C. Control Specification  
+
+🟢 **Correct Answer**: C. Control Specification  
+🔍 **Explanation**: A control specification in the Cloud Controls Matrix (CCM) represents measures or actions taken to mitigate or modify risk effectively.
+
+---
+
+5️⃣4️⃣ Who is responsible for the security of the physical infrastructure and virtualization platform?
+
+A. The cloud consumer  
+B. The majority is covered by the consumer  
+C. It depends on the agreement  
+D. The responsibility is split equally  
+E. The cloud provider  
+
+🟢 **Correct Answer**: E. The cloud provider  
+🔍 **Explanation**: The cloud provider is typically responsible for securing the physical infrastructure and the virtualization layer as part of their shared responsibility model.
+
+---
+
+5️⃣5️⃣ What factors should you understand about the data specifically due to legal, regulatory, and jurisdictional factors?
+
+A. The physical location of the data and how it is accessed  
+B. The fragmentation and encryption algorithms employed  
+C. The language of the data and how it affects the user  
+D. The implications of storing complex information on simple storage systems  
+E. The actual size of the data and the storage format  
+
+🟢 **Correct Answer**: A. The physical location of the data and how it is accessed  
+🔍 **Explanation**: Knowing where your data resides and how it is accessed is crucial for compliance with legal, regulatory, and jurisdictional requirements.
+
+--- 
+
+5️⃣6️⃣ Which cloud-based service model enables companies to provide client-based access for partners to databases or applications?  
+
+A. Platform-as-a-Service (PaaS)  
+B. Desktop-as-a-Service (DaaS)  
+C. Infrastructure-as-a-Service (IaaS)  
+D. Identity-as-a-Service (IDaaS)  
+E. Software-as-a-Service (SaaS)  
+
+🟢 **Correct Answer**: A. Platform-as-a-Service (PaaS)  
+🔍 **Explanation**: PaaS allows organizations to develop and manage applications, providing client-based access for partners to databases and applications.  
+
+---
+
+5️⃣7️⃣ In the CCM tool, the following controls belong to which domain?  
+**GRM 06 - Policy, GRM 07 - Policy Enforcement, GRM 08 - Policy Impact on Risk Assessments, GRM 09 - Policy Reviews, GRM 10 - Risk Assessments, GRM 11 - Risk Management Framework**  
+
+A. Governance and Retention Management  
+B. Governance and Risk Management  
+C. Governing and Risk Metrics  
+
+🟢 **Correct Answer**: B. Governance and Risk Management  
+🔍 **Explanation**: These controls fall under the Governance and Risk Management domain in the Cloud Controls Matrix (CCM). This domain emphasizes risk and policy assessment for cloud environments.
+
+---
+
+5️⃣8️⃣ Which attack surfaces, if any, does virtualization technology introduce?  
+
+A. The hypervisor  
+B. Virtualization management components apart from the hypervisor  
+C. Configuration and VM sprawl issues  
+D. All of the above  
+
+🟢 **Correct Answer**: D. All of the above  
+🔍 **Explanation**: Virtualization introduces multiple attack surfaces, including the hypervisor, management components, and configuration issues such as VM sprawl.  
+
+---
+
+5️⃣9️⃣ APIs and web services require extensive hardening and must assume attacks from authenticated and unauthenticated adversaries.  
+
+A. False  
+B. True  
+
+🟢 **Correct Answer**: B. True  
+🔍 **Explanation**: APIs and web services are critical entry points in cloud systems and must be hardened to withstand potential attacks, whether from authenticated users or unauthenticated adversaries.
+
